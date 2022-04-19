@@ -1,4 +1,4 @@
-# Lab 4 - Infant Incubator Model and Simulator - Lab 8  
+# Lab 8 - Infant Incubator Model and Simulator
 
 In this lab you will apply everything you have learned in this module on a real world application, the Infant Incubator. The Infant Incubator is designed to provide a safe, controlled space for infants to live while their vital organs develop. Unlike a simple bassinet, an incubator provides an environment that can be adjusted to provide the ideal temperature as well as the perfect amount of oxygen, humidity, and light. The developers of this project would like your team to ensure the product satisify US Government's security regulations for medical devices before the release date. As a Security Engineer Team, you are required **"Make sure we satisfiy US Government Regulations"**.
 
