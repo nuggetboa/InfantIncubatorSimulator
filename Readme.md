@@ -1,15 +1,17 @@
-# Lab 8 - Infant Incubator Model and Simulator
+# Lab 4 - Infant Incubator Model and Simulator
 
 In this lab you will apply everything you have learned in this module on a real world application, the Infant Incubator. The Infant Incubator is designed to provide a safe, controlled space for infants to live while their vital organs develop. Unlike a simple bassinet, an incubator provides an environment that can be adjusted to provide the ideal temperature as well as the perfect amount of oxygen, humidity, and light. The developers of this project would like your team to ensure the product satisify US Government's security regulations for medical devices before the release date. As a Security Engineer Team, you are required **"Make sure we satisfiy US Government Regulations"**.
-
 
 ## Task:
 
 In this lab, you have to find out 5 vulnerabilities in the infant incubator model. Write a brief explanation of each vulnerability, where it appears in the code, and how it could compromise the incubator. Vulnerabilities found in the previous labs should be excluded in this lab. 
 
+1) Summarize your understanding of Infant Incubator Simulator in no more than 500 words.
+2) Identify and list all the libraries being used in the project and explain in a sentence or two, what the parameters are.
+
 ## Submission
 
-Over all write up word limit is 500 words. This is a group submission. Please write your responses in a word file and convert it to the pdf. Submit only one pdf file per group. Title of the file should be lab8_group_<your group number>.pdf. Good luck!
+This is a group submission. Please write your responses in a word file and convert it to the pdf. Submit only one pdf file per group. Title of the file should be lab4_group_<your group number>.pdf. Good luck!
 
 ## Infant Incubator Model Explained
 Cybersecurity education lacks practicality. We know the security principles. We know the importance of cryptography and building-security-in. We know the importance of an adversarial mindset (the security mindset). We know the importance of exposing assumptions (especially implicit ones). However, how many of us know how to apply these theoretical principles in the real world? How to trade off security for the other abilities. While build in security is incomplete, we also need to plan for upgrades.
