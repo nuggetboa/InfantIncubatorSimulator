@@ -4,7 +4,7 @@ In this lab you will apply everything you have learned in this module on a real 
 
 ## Task:
 
-In this lab, you have to find out 5 vulnerabilities in the infant incubator model. Write a brief explanation of each vulnerability, where it appears in the code, and how it could compromise the incubator. Vulnerabilities found in the previous labs should be excluded in this lab. 
+In this lab, please complete the following two tasks:
 
 1) Summarize your understanding of Infant Incubator Simulator in no more than 500 words.
 2) Identify and list all the libraries being used in the project and explain in a sentence or two, what the parameters are.
