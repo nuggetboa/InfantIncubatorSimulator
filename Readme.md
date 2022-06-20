@@ -11,7 +11,7 @@ Please carefully read and understand about the Infant incubator and answer the f
 
 ## Submission
 
-This is a group submission. Please write your responses in a word file and convert it to the pdf. Submit only one pdf file per group. Title of the file should be lab4_group_<group number>.pdf. Good luck!
+This is a group submission. Please write your responses in a word file and convert it to the pdf. Submit only one pdf file per group. Title of the file should be lab4_group_<group_number>.pdf. Good luck!
 
 ## Infant Incubator Model Explained
 Cybersecurity education lacks practicality. We know the security principles. We know the importance of cryptography and building-security-in. We know the importance of an adversarial mindset (the security mindset). We know the importance of exposing assumptions (especially implicit ones). However, how many of us know how to apply these theoretical principles in the real world? How to trade off security for the other abilities. While build in security is incomplete, we also need to plan for upgrades.
